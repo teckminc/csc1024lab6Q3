@@ -63,7 +63,7 @@ What is the top number?4
 
 	Functions to use: int(), input(), print(), range(), Exception()
 	Operators: >
-	Structure to use: while, for, try – except – else 
+	Structure to use: while, for, try – except – else, match - case
 	Keyword: break
 '''
 def main():
